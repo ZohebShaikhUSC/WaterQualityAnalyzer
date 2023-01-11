@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+.submit{
+    background: #00ffff;
+    width: 76%;
+    border: 0;
+    margin: 25px 0 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+      height: 35px;
+      text-align: center;
+      border-radius: 5px;
+  }
+
+h2{
+	font-size: 18px;
+	margin-bottom: 8px;
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 11px;
+    color:blue;
+}
+
+.img {
+    background: url('https://www.zinpro.com/wp-content/uploads/2021/01/shutterstock_145774883-1-1-1440x960.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size:100% 100%;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: (5px);
+    -ms-filter: (5px);
+    filter: (15px);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
+.form {
+	max-width: 270px;
+	font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+	font-weight: normal;
+	line-height: 1.625;
+	margin: 8px auto;
+	padding-left: 16px;
+	z-index: 2;
+}
+
+.result{
+    background: #ffff00;
+    width: 76%;
+    border: 0;
+    margin: 25px 0 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+    height: 35px;
+    text-align: center;
+}
+
+.params{
+    border: none;
+    background-color: lightcyan;
+    padding: 12px;
+    border-radius: 3px;
+    width: 250px;
+}
